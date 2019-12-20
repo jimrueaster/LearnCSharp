@@ -2,6 +2,7 @@
 
 * .net版本: 3.1
 * 远端数据库版本: SQL Server 2014
+* [查询不同 DB 产品的 connection string](https://www.connectionstrings.com/)
 
 #### 使用方法
 
