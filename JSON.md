@@ -1,5 +1,11 @@
 
-> JSON Serialize & Deserialize
+#### 安装依赖
+
+```
+dotnet add package Newtonsoft.Json --version 12.0.3
+```
+
+#### JSON Serialize & Deserialize
 
 ```
 using System;
