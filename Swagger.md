@@ -27,4 +27,6 @@ app.UseSwaggerUi3();
 
 * `dotnet aspnet-codegenerator controller -name TodoItemsController -async -api -m TodoItem -dc TodoContext -outDir Controllers`
 
-#### Build and Run! Have Fun!
+#### Build and Run
+
+* Run the application, visit https://localhost:XXXX/swagger, and you'll get the swagger API page, have Fun!
